@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on creating a full stack web app for dog owners.
+
+- 🌱 I’m brushing up on my OAuth and Material UI skills and teaching myself Redux, GraphQL, Next.js, and Flask.
+
+- 👯 I’m looking to collaborate on projects that help people with day to day life, and projects that need a designer's eye.
+
+- 😄 Pronouns: he/they
+
+- ⚡ Fun fact: I can fix your broken bicycle.
 <!--
 **PoeMiel/PoeMiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
